@@ -154,4 +154,4 @@ Our structure–view colearning module builds on MVGS, and we gratefully acknowl
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SCUT-BIP-Lab/SplatCo&type=Date)](https://www.star-history.com/#SCUT-BIP-Lab/SplatCo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SCUT-BIP-Lab/SplatCo&type=date&legend=top-left)](https://www.star-history.com/#SCUT-BIP-Lab/SplatCo&type=date&legend=top-left)
